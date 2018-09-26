@@ -1,0 +1,37 @@
+<section>
+  <form (ngSubmit)=onAddNewInvestment(f) #f="ngForm">
+    <mat-card>
+      <mat-card-title>Register Your Latest Stock Movement</mat-card-title>
+
+      <div class="form">
+        <mat-card-content>
+
+          <mat-form-field appearance="outline">
+            <mat-select placeholder="Symbol / Company" ngModel name="symbol" required>
+              <mat-option *ngFor="let stock of stocks" [value]="stock.symbol">{{ stock.symbol }} / {{ stock.companyName
+                }}</mat-option>
+            </mat-select>
+          </mat-form-field>
+
+          <mat-form-field appearance="outline">
+            <input matInput placeholder="Price in $" type="number" min="0" class="example-right-align" ngModel min="0" name="price" required>
+          </mat-form-field>
+
+          <mat-form-field appearance="outline">
+            <input matInput placeholder="Quantity" ngModel type="number" min="0" name="quantity" required>
+          </mat-form-field>
+
+          <!-- <mat-form-field appearance="outline">
+            <input matInput placeholder= ngModel name="totalValue">    
+          </mat-form-field> -->
+
+        </mat-card-content>
+        <mat-card-actions>
+          <button type="submit" mat-raised-button color="primary" [disabled]="f.invalid">Submit</button>
+        </mat-card-actions>
+
+      </div>
+
+    </mat-card>
+  </form>
+</section>
