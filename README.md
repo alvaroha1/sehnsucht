@@ -34,9 +34,9 @@ Screenshot 2
 * npm install
 
 ## To start
-###Front-End
+### Front-End
 * npm start
-###Bacl-End
+### Back-End
 * npm run dev
 **Be sure to have MySQL server running for the database.
 
