@@ -5,9 +5,6 @@ Idea
 
 An online platform to track your investments wheter they are in the stock market or in cryptocurrencies.
 
-logo of app
-
-
 Motivation
 
 As a former financial analyst, I was really curious to mix two of my passions and see them working together. At the same time, I really wanted to get familiar with Angular, Material and work with data from an API in order to develop skills that might fit with my previous profile.
