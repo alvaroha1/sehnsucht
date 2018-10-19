@@ -29,33 +29,33 @@ Screenshot 2
 * MySQL 
 
 ## Installing
- Clone this repository in your computer.
- In the command line, enter:
- npm install
+* Clone this repository in your computer.
+* In the command line, enter:
+* npm install
 
-*To start
-on the front end
-npm start
-on the back end
-npm run dev
-Be sure to have MySQL server running for the database.
+## To start
+###Front-End
+* npm start
+###Bacl-End
+* npm run dev
+**Be sure to have MySQL server running for the database.
 
-Additional Features that might be implemented on a later date
-Tests
-User Management system
-More relevant metrics
-Visual Charts 
+## Additional Features that might be implemented on a later date
+* Tests
+* User Management system
+* More relevant metrics
+* Visual Charts 
 
-Tech Stack
-Angular - The frontend framework used
-Express- The backend framework used
-MySQL - The database used
-IEX API – The main data source used. At the moment it does NOT require an API Key.
+## Tech Stack
+* Angular - The frontend framework used
+* Express- The backend framework used
+* MySQL - The database used
+* IEX API – The main data source used. At the moment it does NOT require an API Key.
 
-Contributing
-Contributions Welcome!
+## Contributing
+* Contributions Welcome!
 
-This is an on-going project and external input and ideas will be gladly recieved!
+* This is an on-going project and external input and ideas will be gladly recieved!
 
-License
-This project is licensed under the MIT License, take it, have fun.
+## License
+* This project is licensed under the MIT License, take it, have fun.
