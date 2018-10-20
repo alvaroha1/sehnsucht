@@ -18,9 +18,9 @@
 
 * Since it was an educational project supposed to be finish within a week, I wanted to  limit the scope in order to be able to finish everything on time.
 
-Screenshot1
-Screenshot 2
-
+![landing page](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot1.JPG)
+![adding stocks to our portfolio](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot2.JPG)
+![reviewing our current investments](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot3.JPG)
 
 ## Getting Started
 ### Prerequisites
