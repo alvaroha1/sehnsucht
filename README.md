@@ -42,7 +42,9 @@ Since it was an educational project supposed to be finish within a week, I wante
 
 ## To start
 ### Front-End
-* npm start
+```
+$ npm start
+```
 ### Back-End
 * npm run dev
 **Be sure to have MySQL server running for the database.
