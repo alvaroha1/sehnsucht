@@ -17,7 +17,6 @@ export class CryptosFormComponent implements OnInit {
 
   ngOnInit() {
     this.cryptos = this.cryptoService.registerNewCryptoInvestment();
-    // console.log(this.sharedDataService.cryptos);
   }
 
   onAddNewInvestment(form: NgForm) {
@@ -31,22 +30,18 @@ export class CryptosFormComponent implements OnInit {
       timeStamp: Date.now(),
       deleteId: Date.now() * 3
     };
-    // console.log(newCryptoInvestment);
     this.saveInv(newCryptoInvestment);
   }
 
   saveInv(newCryptoInvestment) {
     fetch("http://127.0.0.1:3001/cryptos", {
-      method: "POST", // or 'PUT'
-      body: JSON.stringify(newCryptoInvestment), // data can be `string` or {object}!
+      method: "POST", 
+      body: JSON.stringify(newCryptoInvestment), 
       headers: {
         "Content-Type": "application/json"
       }
     
   }).then(res => this.sharedDataService.fetchDatafromCryptos())
     .then(res => this.sharedDataService.fetchDataFromAlles());
-      // .then(res => res.json())
-      // .catch(error => console.error("Error:", error))
-      // .then(response => console.log("Success:", response));
   }
 }

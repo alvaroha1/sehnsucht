@@ -22,13 +22,6 @@ export class CryptosTableComponent implements OnInit, AfterViewInit {
 
   ngOnInit() {
     this.sharedDataService.fetchDatafromCryptos()
-        // this.dataSource.data = this.fetchDataService.getAvailableInvestments();
-        // this.fetchDataService.showMeTheCryptos().subscribe(fetchDataService => {
-        //   this.cryptos = fetchDataService;
-        //   console.log(this.cryptos);
-        //   let temp = this.cryptos;
-        //   this.dataSource.data = temp;
-        // });
   }
 
   ngAfterViewInit() {

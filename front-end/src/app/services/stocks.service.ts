@@ -50,14 +50,3 @@ export class StocksService {
       return this.availableStocks.find(stock => stock.symbol === symbol).id;
     }
 }
-
-
-// export interface Stock {
-//   id: Number,
-//   symbol: String;
-//   companyName: string;
-//   price: number;
-//   quantity: number;
-//   value: number;
-//   timeStamp: Date;
-// }

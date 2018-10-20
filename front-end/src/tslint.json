@@ -13,5 +13,8 @@
             "app",
             "kebab-case"
         ]
-    }
+    },
+    "compilerOptions": {
+          "target": "es2016"
+        }
 }
