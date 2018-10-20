@@ -56,8 +56,6 @@ $ npm start
 * More relevant metrics
 * Visual Charts 
 
-
-
 ## Contributing
 Contributions Welcome!
 
