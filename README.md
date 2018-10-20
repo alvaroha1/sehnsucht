@@ -1,6 +1,6 @@
 # "SEHNSUCHT"
 
-* Sehnsucht project developed as Solo Project for Codeworks 2018.
+* Sehnsucht project developed as a solo project during 2018.
 
 ## Idea
 
@@ -18,6 +18,13 @@ Currently it only supports values from the DOW30 (E.g. Tesla, Microsoft, Disney 
 
 Since it was an educational project supposed to be finish within a week, I wanted to  limit the scope in order to be able to finish everything on time.
 
+## Tech Stack
+* Angular - The frontend framework used
+* Express- The backend framework used
+* MySQL - The database used through MariaDB
+* IEX API – The main data source used. At the moment it does NOT require an API Key.
+
+## Screenshots
 ![landing page](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot1.JPG)
 ![adding stocks to our portfolio](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot2.JPG)
 ![reviewing our current investments](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot3.JPG)
@@ -46,11 +53,7 @@ Since it was an educational project supposed to be finish within a week, I wante
 * More relevant metrics
 * Visual Charts 
 
-## Tech Stack
-* Angular - The frontend framework used
-* Express- The backend framework used
-* MySQL - The database used
-* IEX API – The main data source used. At the moment it does NOT require an API Key.
+
 
 ## Contributing
 * Contributions Welcome!
