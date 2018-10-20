@@ -35,19 +35,25 @@ Since it was an educational project supposed to be finish within a week, I wante
 * Npm
 * MySQL 
 
-## Installing
+
 * Clone this repository in your computer.
 * In the command line, enter:
 * npm install
 
 ## To start
+* Clone or download this repository in your computer.
+
 ### Front-End
 ```
+$ npm install
 $ npm start
 ```
 ### Back-End
-* npm run dev
-**Be sure to have MySQL server running for the database.
+Run a MySQL server for the database (I recommend using MariaDB).
+```
+$ npm install
+$ npm start
+```
 
 ## Additional Features that might be implemented on a later date
 * Tests
