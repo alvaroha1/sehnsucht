@@ -1,10 +1,10 @@
 # "SEHNSUCHT"
 
-* Sehnsucht project developed as a solo project during 2018.
+Sehnsucht project developed as a solo project during 2018.
 
 ## Idea
 
-* An online platform to track your investments wheter they are in the stock market or in cryptocurrencies.
+An online platform to track your investments wheter they are in the stock market or in cryptocurrencies.
 
 ## Motivation
 
@@ -36,7 +36,7 @@ Since it was an educational project supposed to be finish within a week, I wante
 * MySQL 
 
 ## To start
-* Clone or download this repository in your computer.
+Clone or download this repository in your computer.
 
 ### Front-End
 ```
@@ -59,9 +59,9 @@ $ npm start
 
 
 ## Contributing
-* Contributions Welcome!
+Contributions Welcome!
 
-* This is an on-going project and external input and ideas will be gladly recieved!
+This is an on-going project and external input and ideas will be gladly recieved!
 
 ## License
-* This project is licensed under the MIT License, play around, have fun.
+This project is licensed under the MIT License, play around, have fun.
