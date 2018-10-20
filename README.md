@@ -8,15 +8,15 @@
 
 ## Motivation
 
-* As a former financial analyst, I was really curious to mix two of my passions and see them working together. At the same time, I really wanted to get familiar with Angular, Material and work with data from an API in order to develop skills that might fit with my previous profile.
+As a former financial analyst, I was really curious to mix two of my passions and see them working together. At the same time, I really wanted to get familiar with Angular, Material and work with data from an API in order to develop skills that might fit with my previous profile.
 
-* That’s how I came up with the idea of Sehnsucht.  After doing some research and some testing of different APIs I found the IEX Developer Platform which even allowed to use data from the stock market and the main cryptocurrencies.
+That’s how I came up with the idea of Sehnsucht.  After doing some research and some testing of different APIs I found the IEX Developer Platform which even allowed to use data from the stock market and the main cryptocurrencies.
 
-* For the back-end I wanted to use Express since it was a really solid technology and for the database I went with MySQL because I had some previous experience with it.
+For the back-end I wanted to use Express since it was a really solid technology and for the database I went with MySQL because I had some previous experience with it.
 
-* Currently it only supports values from the DOW30 (E.g. Tesla, Microsoft, Disney or Nike) and 10 cryptocurrencies (Bitcoin, Ethereum, Ripple, IOTA, Cardano, Bitcoin Cash, EOS, Stellar Lumens, Litecoin and NEO).
+Currently it only supports values from the DOW30 (E.g. Tesla, Microsoft, Disney or Nike) and 10 cryptocurrencies (Bitcoin, Ethereum, Ripple, IOTA, Cardano, Bitcoin Cash, EOS, Stellar Lumens, Litecoin and NEO).
 
-* Since it was an educational project supposed to be finish within a week, I wanted to  limit the scope in order to be able to finish everything on time.
+Since it was an educational project supposed to be finish within a week, I wanted to  limit the scope in order to be able to finish everything on time.
 
 ![landing page](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot1.JPG)
 ![adding stocks to our portfolio](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot2.JPG)
