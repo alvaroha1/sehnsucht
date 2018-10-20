@@ -81,7 +81,7 @@ exports.delete = function (deleteId) {
   })
 }; 
 
-
+//You need to create the database and define the tables before, this is how they should look like:
 // CREATE TABLE Stocks (
 //       stockid int,
 //       symbol varchar(255),
