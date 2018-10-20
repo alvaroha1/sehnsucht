@@ -35,11 +35,6 @@ Since it was an educational project supposed to be finish within a week, I wante
 * Npm
 * MySQL 
 
-
-* Clone this repository in your computer.
-* In the command line, enter:
-* npm install
-
 ## To start
 * Clone or download this repository in your computer.
 
