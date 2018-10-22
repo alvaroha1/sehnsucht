@@ -1,6 +1,16 @@
 # "SEHNSUCHT"
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 Sehnsucht project developed as a solo project during 2018.
+
+## Table of contents
+
+* [Getting started](#getting-started)
+* [Usage](#usage)
+* [Tech Stack](#tech-stack)
+* [Screenshots](#screenshots)
+* [Author](#author)
+* [License](#license)
 
 ## Idea
 
@@ -56,10 +66,10 @@ $ npm start
 * More relevant metrics
 * Visual Charts 
 
-## Contributing
-Contributions Welcome!
+## Author
 
-This is an on-going project and external input and ideas will be gladly recieved!
+* Alvaro Hernandez Assens [GitHub](https://github.com/alvaroha1) - [Linkedin](https://www.linkedin.com/in/alvaroha/)
 
 ## License
-This project is licensed under the MIT License, play around, have fun.
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/marcoantonioghiani01/xest-client/blob/master/LICENSE) file for details
