@@ -1,5 +1,4 @@
 # "SEHNSUCHT"
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 Sehnsucht project developed as a solo project during 2018.
 
