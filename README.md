@@ -22,10 +22,12 @@ Currently it only supports values from the DOW30 (E.g. Tesla, Microsoft, Disney 
 Since it was an educational project supposed to be finish within a week, I wanted to  limit the scope in order to be able to finish everything on time.
 
 ## Tech Stack
-* Angular - The frontend framework used
-* Express- The backend framework used
-* MySQL - The database used through MariaDB
-* IEX API – The main data source used. At the moment it does NOT require an API Key.
+* [Angular]( https://angular.io/) - The frontend framework used.
+* [AngularMaterial]( https://material.angular.io/) - Material Design components for Angular.
+* [Express]-(https://expressjs.com/) The backend framework used.
+* [MySQL] (https://www.mysql.com/) - The relational database used.
+* [MariaDB] (https://mariadb.org/) - The server used locally for the project.
+* [IEX Trading API] (https://iextrading.com/) – The main data source used. At the moment it does NOT require an API Key.
 
 ## Screenshots
 ![landing page](https://github.com/alvaroha1/sehnsucht/blob/master/assets/screenshot1.JPG)
