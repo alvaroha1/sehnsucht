@@ -7,7 +7,7 @@ Sehnsucht project developed as a solo project during 2018.
 * [Tech Stack](#tech-stack)
 * [Screenshots](#screenshots)
 * [Getting started](#getting-started)
-* [Additional Features that might be implemented on a later date](#additional-features-that-might-be-implemented-on-a-later-date)
+* [Additional Features](#additional-features)
 * [Author](#author)
 * [License](#license)
 
@@ -53,7 +53,7 @@ $ npm install
 $ npm start
 ```
 
-## Additional Features that might be implemented on a later date
+## Additional Features
 * Tests
 * User Management system
 * More relevant metrics
