@@ -24,7 +24,7 @@ Since it was an educational project supposed to be finish within a week, I wante
 ## Tech Stack
 * [Angular]( https://angular.io/) - The frontend framework used.
 * [AngularMaterial]( https://material.angular.io/) - Material Design components for Angular.
-* [Express]-(https://expressjs.com/) The backend framework used.
+* [Express] (https://expressjs.com/) The backend framework used.
 * [MySQL] (https://www.mysql.com/) - The relational database used.
 * [MariaDB] (https://mariadb.org/) - The server used locally for the project.
 * [IEX Trading API] (https://iextrading.com/) – The main data source used. At the moment it does NOT require an API Key.
