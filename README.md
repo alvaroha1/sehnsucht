@@ -2,10 +2,12 @@
 Sehnsucht project developed as a solo project during 2018.
 
 ## Table of contents
-* [Getting started](#getting-started)
-* [Usage](#usage)
+* [Idea](#idea)
+* [Motivation](#motivation)
 * [Tech Stack](#tech-stack)
 * [Screenshots](#screenshots)
+* [Getting started](#getting-started)
+* [Additional Features that might be implemented on a later date](# Additional Features that might be implemented on a later date)
 * [Author](#author)
 * [License](#license)
 
@@ -36,7 +38,7 @@ Since it was an educational project supposed to be finish within a week, I wante
 * Npm
 * MySQL 
 
-## To start
+### To start
 Clone or download this repository in your computer.
 
 ### Front-End
