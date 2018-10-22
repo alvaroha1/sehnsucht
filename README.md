@@ -7,7 +7,7 @@ Sehnsucht project developed as a solo project during 2018.
 * [Tech Stack](#tech-stack)
 * [Screenshots](#screenshots)
 * [Getting started](#getting-started)
-* [Additional Features that might be implemented on a later date](# Additional Features that might be implemented on a later date)
+* [Additional Features that might be implemented on a later date](#additional-features-that-might-be-implemented-on-a-later-date)
 * [Author](#author)
 * [License](#license)
 
