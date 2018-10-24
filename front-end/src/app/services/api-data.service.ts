@@ -6,8 +6,8 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
   providedIn: 'root'
 })
 export class ApiDataService {
-  ApiDataService: 
-  Array<any>;
+  // ApiDataService: Array<any>;
+  ApiDataService: any[];
   
   constructor(private http: HttpClient) { }
 

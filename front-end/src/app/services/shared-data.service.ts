@@ -15,7 +15,7 @@ export class SharedDataService {
 
   constructor(
     private fetchDataService: FetchDataService,
-    private apiDataService: ApiDataService
+    private apiDataService: ApiDataService 
   ) {}
 
   fetchDataFromStocks() {
@@ -58,6 +58,7 @@ export class SharedDataService {
       this.cryptos = fetchDataService;
 
       this.apiDataService.getCryptoPrices().subscribe(apiDataService => {
+        
       this.latestCryptoData = apiDataService.reduce((acc, el) =>{ return {...acc, [el.symbol.slice(0,-4)]:el}},{});
 
       this.cryptos.forEach(
