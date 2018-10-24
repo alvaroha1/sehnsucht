@@ -75,11 +75,7 @@ export class SharedDataService {
   async updateAlles() {
     await this.updateStocksPrice();
     await this.updateCryptosPrice();
-    console.log('here', this.latestCryptoData);
-    console.log('here', this.latestStockData);
     await this.latestStockData.concat(this.latestCryptoData);
-    await console.log(this.latestStockData.concat(this.latestCryptoData));
-   
   }
 
 
